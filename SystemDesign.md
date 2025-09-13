@@ -20,3 +20,11 @@
     - Substantivos Relacionados aos requisitos funcionais;
     - Ex: Passageiro, corrida, localização (origem, destino);
 
+### Design de API:
+    - POST /rider/request-ride
+    {
+      riderID, [obs]: Pode ser trocado por um token na url que identifica o rider
+      location,
+      destination
+    }
+
