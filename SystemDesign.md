@@ -9,4 +9,11 @@
     - Disponibilidade do sistema? SLA;
     - Disponibilidade vs Consistência;
 
-Pla
+### Plano de capacidade
+    - Quantidade usuários Ativos;
+    - Pico de Utilização;
+    - Escrita Intensiva vs Leitura Intensiva;
+    - Quanto de trafégo é gerado em média por usuário;
+    - Armazenamento: (Quantos TB em 1 ano, 1 dia, 5 anos, etc)
+
+
