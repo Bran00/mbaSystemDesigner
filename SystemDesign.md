@@ -16,4 +16,7 @@
     - Quanto de trafégo é gerado em média por usuário;
     - Armazenamento: (Quantos TB em 1 ano, 1 dia, 5 anos, etc)
 
+### Entidades Relacionadas / core
+    - Substantivos Relacionados aos requisitos funcionais;
+    - Ex: Passageiro, corrida, localização (origem, destino);
 
