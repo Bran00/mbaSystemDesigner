@@ -28,3 +28,4 @@
       destination
     }
 
+Rider -> |request ride| -> Api Gateway -> RiderMatcher(Rider - Driver)
