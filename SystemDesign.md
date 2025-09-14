@@ -28,4 +28,11 @@
       destination
     }
 
+### System Design (High Level View / WhiteBoard)
+
 Rider -> |request ride| -> Api Gateway -> RiderMatcher(Rider - Driver)
+
+### Aprofundamento
+    - Qual tipo de banco de dados usar?
+    - Como garantir resiliência (Register Ride estiver fora do ar?) Por quanto tempo eu devo cancelar a ride?
+    - Como funciona a API Gateway? Quais serviços ela vai utilizar? Aponte 3 "marcas" de API Gateway
