@@ -8,3 +8,5 @@
 
 ### Assíncrona
     - As duas pontas não precisam estar conectadas ao mesmo tempo para trocar informações.
+    - A mensagem foi enviada.
+    - Demora... (Ser uma analise de negócio do que é aceitavel ou não)
