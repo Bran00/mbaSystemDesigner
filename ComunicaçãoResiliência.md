@@ -27,3 +27,12 @@
     - Filas
     - Exchange (Hub de roteamento de mensagens)
     - RabbitMQ
+
+## Real Time
+    - Websockets
+    - Bidirecional (Client e o server conseguem enviar mensagens)
+    - HTTP -> Upgrade -> TCP
+    - Chat, Troca de mensagens...
+    - Server-Sent Events (SSE)
+    -- Comunicação em tempo real UNILATERAL
+    -- Dashboard, notificações...
