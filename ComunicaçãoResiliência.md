@@ -10,3 +10,10 @@
     - As duas pontas não precisam estar conectadas ao mesmo tempo para trocar informações.
     - A mensagem foi enviada.
     - Demora... (Ser uma analise de negócio do que é aceitavel ou não)
+
+
+### Síncrona (Protocolos)
+   - Rest / HTTP
+   - gRPC
+   - Streams - Bidirecional
+   - GraphQL
