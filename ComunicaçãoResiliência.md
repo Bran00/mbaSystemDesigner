@@ -13,7 +13,17 @@
 
 
 ### Síncrona (Protocolos)
-   - Rest / HTTP
-   - gRPC
-   - Streams - Bidirecional
-   - GraphQL
+    - Rest / HTTP
+    - gRPC
+    - Streams - Bidirecional
+    - GraphQL
+
+### Assíncrona (Protocolos e Ferramentas)
+    - Filas, Topicos
+    - Pub/Sub Produtor da mensagem -> Subscriber(s) (Interessado naquela mensagem)
+    - Apache Kafka (Topicos) -> Grupos de consumidores ficam "ouvindo" o Topicos
+    - Redis
+    - Postgres
+    - Filas
+    - Exchange (Hub de roteamento de mensagens)
+    - RabbitMQ
