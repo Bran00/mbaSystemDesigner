@@ -36,3 +36,14 @@
     - Server-Sent Events (SSE)
     -- Comunicação em tempo real UNILATERAL
     -- Dashboard, notificações...
+
+### Protocolos / Payload
+    - Protocol Buffers (Protobuf)
+    -- Google
+    -- .proto (Evolutivo)
+
+    - FlatBuffers
+    -- Google
+    -- Não há desserialização na leitura
+    -- Offsets e os dados
+    -- .fbs
