@@ -16,3 +16,5 @@ Resolver o incidente
 - Não entendo de infra, talvez possa DB, Servidor, Configuração, etc
 
 Tempo de falha: $$$, Perde Clientes...
+
+OBS: Deploy uma vez por mês, trimestre, semestre
