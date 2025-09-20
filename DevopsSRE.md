@@ -18,3 +18,15 @@ Resolver o incidente
 Tempo de falha: $$$, Perde Clientes...
 
 OBS: Deploy uma vez por mês, trimestre, semestre
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cultura DevOps (Dev e Operação)
+
+- Dev entenda o mínimo de infra, operação, etc
+- Infra entenda o basico de desenvolvimento
+- Tooling
+
+DEV -> Ambiente de produção         ->  CI / CD Test, build, release  ->     Monitorar Observar
+DEV -> Testar de forma automatizada ->        Tooling                 ->      Operação / DEV
+
