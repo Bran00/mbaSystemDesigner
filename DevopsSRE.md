@@ -33,7 +33,7 @@ DEV -> Testar de forma automatizada ->        Tooling                 ->      Op
 Tudo se resume ao DEVOPS <---------------------------------------------------------------------------------|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Confiabilidade
+Confiabilidade - Independente de qualquer coisa (SRE)
 
 - Métricas claras do que é considerado um software confiável.
 - Balancear Custo/Bemefício 
@@ -41,3 +41,8 @@ Confiabilidade
 - Acordos com clientes (SLA)
 - Orçamento (Créditos). 1h -> 20 min = 40 Min(EB)
 - DORA
+
+
+
+                            SW -> Pagamento De quem é a culpa?((EMPRESA))
+Não existe culpa: Processos e entedimentos dos problemas
