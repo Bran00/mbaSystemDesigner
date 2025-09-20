@@ -32,3 +32,12 @@ DEV -> Testar de forma automatizada ->        Tooling                 ->      Op
 
 Tudo se resume ao DEVOPS <---------------------------------------------------------------------------------|
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Confiabilidade
+
+- Métricas claras do que é considerado um software confiável.
+- Balancear Custo/Bemefício 
+- Objetivos -> Garantir disponibilidade% (SLO)
+- Acordos com clientes (SLA)
+- Orçamento (Créditos). 1h -> 20 min = 40 Min(EB)
+- DORA
