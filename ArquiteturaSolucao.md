@@ -11,5 +11,6 @@
   - Processos         |-> Governança -> Enterprise Software
   - Tecnologia        |
 
-### Principais características de um sistema enterprise
-  - 
+### Principais características de um Sistema Enterprise
+  - Escalabilidade
+  - Disponibilade
