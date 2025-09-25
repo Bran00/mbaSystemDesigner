@@ -15,3 +15,7 @@
   - Inteligência emocional
   - Trabalho em equipe
   - Saber ouvir
+
+## Sollution Architecture Patterns for enterprise
+
+  - p.54
