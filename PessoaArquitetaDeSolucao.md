@@ -30,3 +30,9 @@
     - Manutenção
     - Operação
     - Inativação
+
+## Diferença entre enterprise architecture e solution architecture
+
+  - EA Possui visão da corporação como um todo, já SA tem um foco normalmente em uma solução específica.
+  - EA Planejamento, Implementação da estrutura organizacional de uma corporação. Incluindo: Pessoas, processos e tecnologia.
+  - SA define a estrutura, características, comportamentos e relações entre um sistema específico.
