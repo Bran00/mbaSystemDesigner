@@ -36,3 +36,9 @@
   - EA Possui visão da corporação como um todo, já SA tem um foco normalmente em uma solução específica.
   - EA Planejamento, Implementação da estrutura organizacional de uma corporação. Incluindo: Pessoas, processos e tecnologia.
   - SA define a estrutura, características, comportamentos e relações entre um sistema específico.
+
+## 3 níveis de arquitetura de solução
+
+  - Arquitetura focada no negócio (Nível 0)
+  - Arquitetura focada na área técnica (Nível 1)
+  - Arquitetura focada no deployment (nível 2)
