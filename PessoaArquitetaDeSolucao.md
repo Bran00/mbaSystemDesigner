@@ -43,5 +43,9 @@
     - A visão deixa claro os objetivos da solução de uma forma mais empírica, lógica e que deixe claro sua razão de existis.
     - Define os principais objetivos que vão guiar a solução.
     - Apresenta uma visão de alto nível do que a soluçõa vai realizar, suas necessidades, bem como todos os envolvidos.
+    - Define os limites da solução.
+    - Problema que será resolvido, requisitos funcionais e não funcionais.
+    - Componentes, sistemas e tecnologias.
+    - Considera restrições e pressupostos que podem influenciar no design da solução.
   - Arquitetura focada na área técnica (Nível 1)
   - Arquitetura focada no deployment (nível 2)
