@@ -19,3 +19,14 @@
 ## Sollution Architecture Patterns for enterprise
 
   - p.54
+
+## TCO (Total Cost of Ownership)
+
+  - Métrica financeira que representa o custo total de comprar, desenvolver e operar uma solução ao longo do tempo
+  - Não inclui apenas o preço inicial da solução, mas também oscustos de manutenção
+  - Formato de custos:
+    - Aquisição
+    - Implementação
+    - Manutenção
+    - Operação
+    - Inativação
