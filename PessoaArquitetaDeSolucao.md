@@ -39,6 +39,9 @@
 
 ## 3 níveis de arquitetura de solução
 
-  - Arquitetura focada no negócio (Nível 0)
+  - Arquitetura focada no negócio (Nível 0):
+    - A visão deixa claro os objetivos da solução de uma forma mais empírica, lógica e que deixe claro sua razão de existis.
+    - Define os principais objetivos que vão guiar a solução.
+    - Apresenta uma visão de alto nível do que a soluçõa vai realizar, suas necessidades, bem como todos os envolvidos.
   - Arquitetura focada na área técnica (Nível 1)
   - Arquitetura focada no deployment (nível 2)
