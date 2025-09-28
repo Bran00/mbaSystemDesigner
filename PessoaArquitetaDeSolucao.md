@@ -63,3 +63,5 @@ IMAGINANDO
 
 
 Vendedores - Ingresso | Suporte - Ticket | Parceiros - Ticket
+
+- Lei de Conway: A lei de Conway é um principio que afirma que o design de um sistema é influenciado pela estrutura organizacional do grupo que o produz.
