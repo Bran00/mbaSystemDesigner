@@ -53,3 +53,13 @@
 ## Dominios e contextos
 
   - Entendimento aprofundado do negócio
+  - Ver o negócio pelo ponto de vista de seus participantes (Vendedor, parceiro, diferentes departamentos, etc)
+  - Como esses contextos se comunicam e por qual "linguagem"
+
+## Domínio, contextos (Linguagem)
+
+
+IMAGINANDO
+
+
+Vendedores - Ingresso | Suporte - Ticket | Parceiros - Ticket
