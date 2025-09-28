@@ -7,3 +7,6 @@
 ### Tipos
   - N-Tier / N-Layer
     - Camadas separadas
+  - Multi-Tentant
+    - Pode ser uma camada só
+  - 
