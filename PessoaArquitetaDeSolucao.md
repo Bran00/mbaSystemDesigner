@@ -49,3 +49,7 @@
     - Considera restrições e pressupostos que podem influenciar no design da solução.
   - Arquitetura focada na área técnica (Nível 1)
   - Arquitetura focada no deployment (nível 2)
+
+## Dominios e contextos
+
+  - Entendimento aprofundado do negócio
