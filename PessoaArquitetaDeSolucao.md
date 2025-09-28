@@ -70,3 +70,12 @@ Vendedores - Ingresso | Suporte - Ticket | Parceiros - Ticket
 
   (VIEW)
   - Uma visão (view) é uma representação de um ou mais aspectos estruturais de uma arquitetura que ilustra como a arquitetura aborda uma ou mais questões mantidas por um ou mais de seus stakeholders
+
+  (VIEWPOINTS)
+  - Um ponto de vista (viewpoint) é uma coleção de padrões, modelos e conveções para construir um tipo de visão. Ele define as partes interessadas cujas preocupações são refletidas no ponto de vista e nas diretrizes, princípios e templates para a construção de seus pontos de vista.
+
+   Logica View -> Developmente View
+      |                 |                       -> Scenarios
+      > Process View -> Physical View 
+
+
