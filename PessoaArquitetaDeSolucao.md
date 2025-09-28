@@ -65,3 +65,8 @@ IMAGINANDO
 Vendedores - Ingresso | Suporte - Ticket | Parceiros - Ticket
 
 - Lei de Conway: A lei de Conway é um principio que afirma que o design de um sistema é influenciado pela estrutura organizacional do grupo que o produz.
+
+## View e Viewpoints
+
+  (VIEW)
+  - Uma visão (view) é uma representação de um ou mais aspectos estruturais de uma arquitetura que ilustra como a arquitetura aborda uma ou mais questões mantidas por um ou mais de seus stakeholders
