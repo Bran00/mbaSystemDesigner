@@ -6,3 +6,5 @@
 ## ASG = Auto scaling group
 
 Instance 1 -> Instance 2
+
+
