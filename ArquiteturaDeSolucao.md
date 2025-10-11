@@ -8,3 +8,7 @@
   - Eficiência e perfomance
   - Otimização de custos
   - Sustentabilidade
+
+### Conceitos
+
+- Excelência Operacional
