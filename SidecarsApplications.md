@@ -5,4 +5,4 @@
 - mTLS
 - Controle de tráfego
 
-![Arquitetura](![Arquitetura](https://learn.microsoft.com/en-us/azure/architecture/patterns/_images/sidecar.png))
+![Arquitetura](https://learn.microsoft.com/en-us/azure/architecture/patterns/_images/sidecar.png)
