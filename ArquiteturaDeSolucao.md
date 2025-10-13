@@ -24,4 +24,10 @@
   - Atives todos os layers de segurança
   - Proteja os dados em trânsito e os armazenados
   - Mantenha pessoas longe dos dados
-
+- Confibialidade
+  "O pilar de confiabilidade abrange a capacidade de uma carga de trabalho de executar sua função pretendida de forma correta e consistente quando é esperado. Isso inclui a capacidade de operar e testar a carga de trabalho durante todo o seu ciclo de vida"
+  - Recupere-se automaticamente de falhas
+  - Teste procedimentos de recuperação
+  - Escale horizontalmente para aumentar a disponibilidade de carga de trabalho agregada
+  - Pare de adivinhar a capacidade
+  - Gerencie a mudança de forma automatizada
